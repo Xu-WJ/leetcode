@@ -25,7 +25,7 @@
 
 # Details
 
-# 448_Find all numbers disappeared in an array
+#448_Find all numbers disappeared in an array
 Problem link: 
 https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
 
