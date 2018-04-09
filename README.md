@@ -6,6 +6,7 @@
 * [448 Find all numbers disappeared in an array](#448-find-all-numbers-disapperaed-in-an-array)
 
 
+* [programming tips](programming-tips)
 
 ---
 
@@ -19,3 +20,7 @@ Find all the elements of \[1, n\] inclusive that do not appear in this array.
 Could you do it without extra space and in O(n) runtime? You may assume the returned list does not count as extra space.
 
 - [My codes](/cppSources/#448.cpp)
+
+
+### programming tips
+- [List, Vector, Set & Map](https://blog.csdn.net/ac_greener/article/details/77370224)
