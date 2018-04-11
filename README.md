@@ -4,6 +4,8 @@
 
 
 * [448 Find all numbers disappeared in an array](#448-find-all-numbers-disapperaed-in-an-array)
+* [697 Degree of an array](#697-degree-of-an-array)
+* [268 Missing number](#268-missing-number)
 
 
 * [programming tips](programming-tips)
@@ -21,7 +23,11 @@ Could you do it without extra space and in O(n) runtime? You may assume the retu
 
 - [My codes](/cppSources/#448.cpp)
 
+### #697 Degree of an array
 
-### programming tips
+### #268 Missing number
+
+
+## Programming tips
 - [List, Vector, Set & Map](https://blog.csdn.net/ac_greener/article/details/77370224)
 - [red & black tree](https://blog.csdn.net/eson_15/article/details/51144079)
