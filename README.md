@@ -24,3 +24,4 @@ Could you do it without extra space and in O(n) runtime? You may assume the retu
 
 ### programming tips
 - [List, Vector, Set & Map](https://blog.csdn.net/ac_greener/article/details/77370224)
+- [red & black tree](https://blog.csdn.net/eson_15/article/details/51144079)
