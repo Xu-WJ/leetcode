@@ -8,8 +8,6 @@
 * [268 Missing number](#268-missing-number)
 
 
-* [programming tips](programming-tips)
-
 ---
 
 ## Details
@@ -26,8 +24,3 @@ Could you do it without extra space and in O(n) runtime? You may assume the retu
 ### #697 Degree of an array
 
 ### #268 Missing number
-
-
-## Programming tips
-- [List, Vector, Set & Map](https://blog.csdn.net/ac_greener/article/details/77370224)
-- [red & black tree](https://blog.csdn.net/eson_15/article/details/51144079)
